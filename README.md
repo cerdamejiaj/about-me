@@ -2,7 +2,7 @@
 
 Jerfenson Cerda Mejia
 
-TL;DR:
+## TL;DR:
 
 
 
@@ -10,4 +10,4 @@ TL;DR:
 
 When I turned eleven, I moved to the United States with my mom. Here my I became even more intrigued with technology, I wanted to learn everything about computers, how videos games were created and also websites. My first career thought was to become a video game designer because I was so amazed how video games developers created games with such high resolution and mechanics. As I interacted more with computers and videos games, I became curios of how these things were created and worked. My curiosity took me to the world of computer programing language.
 
-Th fist time I started learning a programing language was in middle school and it was html and css. Which are use for creating websites.
+The first programing language I started learning was HTML and CSS, which are for web developing.
