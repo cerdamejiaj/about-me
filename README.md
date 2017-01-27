@@ -10,4 +10,5 @@ Jerfenson Cerda Mejia
 
 When I turned eleven, I moved to the United States with my mom. Here my I became even more intrigued with technology, I wanted to learn everything about computers, how videos games were created and also websites. My first career thought was to become a video game designer because I was so amazed how video games developers created games with such high resolution and mechanics. As I interacted more with computers and videos games, I became curios of how these things were created and worked. My curiosity took me to the world of computer programing language.
 
-The first programing language I started learning was HTML and CSS, which are for web developing.
+The first programing language I started learning was HTML and CSS. From there a went beyond that and started applying to small coding boot camps for high school students. I had the opportunity to get into CodeNow where I had the chance to spend two weeks learning Ruby from professional coders that worked in big tech companies. Programing became a central factor in my life, I a just wanted to learn more about it.
+During my junior year in high school
