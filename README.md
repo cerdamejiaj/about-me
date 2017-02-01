@@ -1,6 +1,6 @@
-# about-me
+# Jerfenson Cerda Mejia
 
-Jerfenson Cerda Mejia
+
 
 #### TL;DR: How technology and programming have changed me for the better, has given me so many incredible opportunities in life and it eventually made me major in computer science.
 
